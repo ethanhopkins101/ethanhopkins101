@@ -9,8 +9,14 @@ Specializing in automated risk systems and high-scale machine learning pipelines
 ### 🛠 Active Projects
 
 🏦 **[Credit Risk Modeling](https://github.com/ethanhopkins101/Credit-Risk-Modeling)** - Financial risk assessment engine deployed via Docker.
+
+
 📉 **[Telco Churn & Survival Analysis](https://github.com/ethanhopkins101/churn_analysis)** - Advanced predictive analytics using Kaplan-Meier and XGBoost to model customer retention as a time-based event.
+
+
 📦 **End-to-End ML Pipeline** - Production-grade backend hosted on ECR, utilizing SageMaker for daily predictions and S3 for data orchestration.
+
+
 📊 [**Automated Financial Dashboards**](https://github.com/ethanhopkins101/adventure_works) - Cloud-based ETL processes and visualization systems designed to enhance operational efficiency.
 
 ---
