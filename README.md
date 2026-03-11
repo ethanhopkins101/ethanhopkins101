@@ -56,5 +56,18 @@ Specializing in automated risk systems and high-scale machine learning pipelines
 * **B.S. in Computer Science** – National Superior School of Telecommunication & Technology Information.
 * **Philosophy:** "Data is only as valuable as the decisions it automates." I focus on statistical objectivity and direct business impact.
 
+---
+
+### 🚀 At a Glance
+
+- 🔭 **Currently working on:** Advanced churn analysis models for retail-base businesses.
+- 🌱 **Learning:** Prompt Engineering & LangChain 🦜.
+- 👯 **Looking to collaborate on:** [Hive](https://github.com/aden-hive/hive) — an open-source decentralized ecosystem.
+- 💬 **Ask me about:** Econometrics, ML Pipelines, or GCP architecture.
+- ⚡ **Fun fact:** "Nothing in this world is to be feared, it is only to be understood. It is time to understand more so that we may fear less."
+
+---
+
+
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/mouffok-aissa-881118295/) | [Email](mailto:ethan.hopkins101@gmail.com)
