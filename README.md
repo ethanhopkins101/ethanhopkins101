@@ -11,19 +11,19 @@ Specializing in automated risk systems and high-scale machine learning pipelines
 🏦 **[Credit Risk Modeling](https://github.com/ethanhopkins101/Credit-Risk-Modeling)** - Financial risk assessment engine deployed via Docker.
 📉 **[Telco Churn & Survival Analysis](https://github.com/ethanhopkins101/churn_analysis)** - Advanced predictive analytics using Kaplan-Meier and XGBoost to model customer retention as a time-based event.
 📦 **End-to-End ML Pipeline** - Production-grade backend hosted on ECR, utilizing SageMaker for daily predictions and S3 for data orchestration.
-[cite_start]📊 **Automated Financial Dashboards** - Cloud-based ETL processes and visualization systems designed to enhance operational efficiency. [cite: 16]
+📊 [**Automated Financial Dashboards**](https://github.com/ethanhopkins101/adventure_works) - Cloud-based ETL processes and visualization systems designed to enhance operational efficiency.
 
 ---
 
 ### 🏢 Professional Experience
 
-[cite_start]**Senior Data Scientist @ Joom** (Feb 2025 – Jan 2026) [cite: 8, 9, 10]
-* [cite_start]Developed ML models to optimize user experience and operational efficiency in delivery/streaming. [cite: 13, 17]
-* [cite_start]Architected cloud-based dashboards and automated ETL pipelines for product-driven insights. [cite: 14, 16]
+**Senior Data Scientist @ Joom** (Feb 2025 – Jan 2026)
+* Developed ML models to optimize user experience and operational efficiency in delivery/streaming services.
+* Architected cloud-based dashboards and automated ETL pipelines for product-driven insights.
 
-[cite_start]**Junior Analyst @ Mayvue** (Jan 2023 – May 2024) [cite: 11, 18, 19]
-* [cite_start]Built automated dashboards for Yalidine to address critical business questions and data trends. [cite: 21, 23]
-* [cite_start]Collaborated on strategic reports summarizing recommendations for key stakeholders. [cite: 22]
+**Junior Analyst @ Mayvue** (Jan 2023 – May 2024)
+* Built automated dashboards for Yalidine to address critical business questions and data trends.
+* Collaborated on strategic reports summarizing recommendations for key stakeholders.
 
 ---
 
@@ -47,23 +47,8 @@ Specializing in automated risk systems and high-scale machine learning pipelines
 
 ### 📜 Education & Philosophy
 
-* [cite_start]**B.S. in Computer Science** – National Superior School of Telecommunication & Technology Information. [cite: 26, 27]
+* **B.S. in Computer Science** – National Superior School of Telecommunication & Technology Information.
 * **Philosophy:** "Data is only as valuable as the decisions it automates." I focus on statistical objectivity and direct business impact.
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/mouffok-aissa-881118295/) | [cite_start][Email](mailto:ethan.hopkins101@gmail.com) [cite: 3]
-
-<!--
-**ethanhopkins101/ethanhopkins101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/mouffok-aissa-881118295/) | [Email](mailto:ethan.hopkins101@gmail.com)
