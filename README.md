@@ -28,7 +28,7 @@ Specializing in automated risk systems and high-scale machine learning pipelines
 * Architected cloud-based dashboards and automated ETL pipelines for product-driven insights.
 
 **Junior Analyst @ Mayvue** (Jan 2023 – May 2024)
-* Built automated dashboards for Yalidine to address critical business questions and data trends.
+* Built automated dashboards for The company to address critical business questions and data trends.
 * Collaborated on strategic reports summarizing recommendations for key stakeholders.
 
 ---
