@@ -70,4 +70,4 @@ Specializing in automated risk systems and high-scale machine learning pipelines
 
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/mouffok-aissa-881118295/) | [Email](mailto:ethan.hopkins101@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mouffok-aissa-881118295/) | [Email](mailto:mouffokkaissa@gmail.com)
